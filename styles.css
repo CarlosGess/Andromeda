@@ -1,3 +1,20 @@
-h1 {
+#web_header {
     background-color: aquamarine;
+}
+
+#web_nav {
+    background-color: blueviolet;
+}
+
+#nav_elements {
+    background-color:orange;
+    display: inline;
+}
+
+#web_articles {
+    background-color: red;
+}
+
+#web_footer {
+    background-color: green;    
 }
